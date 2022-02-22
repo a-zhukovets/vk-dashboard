@@ -14,4 +14,4 @@
 [VK-DASHBOARD](https://a-zhukovets.github.io/vk-dashboard/)
 
 ## Preview
-<img src="preview.jpg">
+<img src="preview.png">
