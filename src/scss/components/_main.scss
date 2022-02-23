@@ -4,7 +4,7 @@
     grid-template-rows: 148px 242px 242px;
     grid-template-areas:
       "card card card"
-      "grafics grafics cake"
+      "chart chart pie"
       "diagram diagram progress";
     grid-area: main;
     grid-gap: 2em;
@@ -16,9 +16,9 @@
       grid-template-rows: 148px 242px 242px 242px;
       grid-template-areas:
         "card card card"
-        "grafics grafics grafics"
+        "chart chart chart"
         "diagram diagram diagram"
-        "cake progress progress";
+        "pie progress progress";
       grid-gap: 1.5em;
       padding: 2em;
     }
@@ -28,9 +28,9 @@
       grid-template-rows: 148px 242px 242px 242px;
       grid-template-areas:
         "card card card"
-        "grafics grafics grafics"
+        "chart chart chart"
         "diagram diagram diagram"
-        "cake progress progress";
+        "pie progress progress";
       grid-gap: 1.5em;
       padding: 2em;
     }
@@ -42,9 +42,9 @@
         "card"
         "card"
         "card"
-        "grafics"
+        "chart"
         "diagram"
-        "cake"
+        "pie"
         "progress";
       grid-gap: 1.5em;
       padding: 2em;

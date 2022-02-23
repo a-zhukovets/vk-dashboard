@@ -1,5 +1,5 @@
-.grafics {
-    grid-area: grafics;
+.chart {
+    grid-area: chart;
     background: $secondary-color;
     border: 1px solid #4d4d4d;
     border-radius: $rounded;
@@ -65,6 +65,7 @@
       height: 16px;
       margin-right: 5px;
       margin-top: 5px;
+      margin-left: 40px;
       text-align: center;
       border: 1px solid $lightest-color;
       background: #282c31;
@@ -93,6 +94,6 @@
   
     &__img {
       min-width: 568px;
-      max-height: 120px;
+      max-height: 150px;
     }
   }
